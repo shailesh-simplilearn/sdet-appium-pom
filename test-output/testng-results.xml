@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7160" started-at="2022-04-29T10:22:50 IST" finished-at="2022-04-29T10:22:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7160" started-at="2022-04-29T10:22:50 IST" finished-at="2022-04-29T10:22:57 IST">
+      <class name="tests.SmokeTest">
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:tests.SmokeTest@a38d7a3]" name="setupDriver" is-config="true" duration-ms="6786" started-at="2022-04-29T10:22:43 IST" finished-at="2022-04-29T10:22:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="firstMethod()[pri:0, instance:tests.SmokeTest@a38d7a3]" name="firstMethod" duration-ms="7128" started-at="2022-04-29T10:22:50 IST" finished-at="2022-04-29T10:22:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMethod -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:tests.SmokeTest@a38d7a3]" name="closeDriver" is-config="true" duration-ms="413" started-at="2022-04-29T10:22:57 IST" finished-at="2022-04-29T10:22:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tests.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
